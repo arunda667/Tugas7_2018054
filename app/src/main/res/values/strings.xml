@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Penyewaan Laptop</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_Laptop">Spesifikasi Laptop dengan kategori tinggi bgt</string>
+
+    <string-array name="laptop">
+        <item>ROG</item>
+        <item>acer</item>
+        <item>dell</item>
+        <item>zenbook</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp.150.000</item>
+        <item>Rp.50.000</item>
+        <item>Rp.75.000</item>
+        <item>Rp.125.000</item>
+    </string-array>
+</resources>
